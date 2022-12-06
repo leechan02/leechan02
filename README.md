@@ -11,7 +11,7 @@
 C : 
 📌 C-Basic
 📌 C-Pointer
-📌 [C-DataStructure](https://github.com/leechan02/C_DataStructure)
+📌 [C_DataStructure](https://github.com/leechan02/C_DataStructure)
 📌 [C-42_Cursus](https://github.com/leechan02/42cursus) [Private]
 📌 [C-42_Piscine](https://github.com/leechan02/C_Piscine) [Private]
 
